@@ -23,9 +23,9 @@ redirect_from:
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in:
 
-  📗 Primary Major: Applied Mathematics
+&nbsp;&nbsp;📗 Primary Major: Applied Mathematics
 
-  📘 Secondary Major: Physics
+&nbsp;&nbsp;📘 Secondary Major: Physics
   
-  📙 Minor: Statistics
+&nbsp;&nbsp;📙 Minor: Statistics
 
