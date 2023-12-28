@@ -21,11 +21,11 @@ author_profile: true
 ## **Publications:**
 
 📜 **Regularization of Complex Langevin Method** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Zhenning Cai and Yang Kuang. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Phys. Rev. D* 105, 014508 (2022). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Zhenning Cai](https://blog.nus.edu.sg/matcz/) and [Yang Kuang](https://scholar.google.com/citations?user=kA4bMCUAAAAJ&hl=en). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Phys. Rev. D* 105, 014508 (2022).](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.014508) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Computational Physics, Numerical Analysis.
 
 📜 **Hierarchical Bayesian Thermonuclear Rate for 7Be(n,p)7Li Big Bang Nucleosynthesis Reactions**  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Rafael S de Souza, Alain Coc, and Christian Iliadis. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Astrophysical Journal* 894, 132 (2020); Tags: Bayesian Statistics <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *The Astrophysical Journal* 894, 132 (2020). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Bayesian Statistics.
