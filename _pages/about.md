@@ -32,3 +32,17 @@ redirect_from:
   -  Classical Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
   -  Finite-time Singularities arising from PDEs.
 
+## **CV:**
+
+You can access my CV **here.**
+
+## **Teaching:**
+
+👨‍🏫 Currently Teaching: 
+  -  (Winter 24.) Teaching Assistant for Math 266B: Applied PDEs.
+
+🧑‍💻 Teaching Experiences:
+  -  You can access them **here.**
+
+🧑‍🎓 Tutoring:
+  -  I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information.
