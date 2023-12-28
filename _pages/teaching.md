@@ -11,7 +11,7 @@ author_profile: true
 
 ## 🧑‍💻 **Teaching Experiences:**
 
-# Teaching Assistant at UCLA.
+### Teaching Assistant at UCLA.
 
 📖 (Fall 23.) Teaching Assistant for Math 134 Linear and Nonlinear Systems of Differential Equations. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.89/9.0, <br>
@@ -35,7 +35,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.67/9.0, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Teaching Evaluation; 📔 Discussion Supplements. (Updated in Spring 23 Version.)
 
-# Teaching Assistant at the National University of Singapore.
+### Teaching Assistant at the National University of Singapore.
 
 📖 (AY20/21 Sem 2.) Teaching Assistant for CS1231 Discrete Structures. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 4.7/5.0, <br>
