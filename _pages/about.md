@@ -10,8 +10,7 @@ redirect_from:
 
 # **About Me:**
 
-👦 Name:
-
+👦 Name: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🅰️ First Name: Hong Kiat, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🅱️ Last Name: Tan, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🆎 Listed Name: Hong Kiat Tan <br>
@@ -25,3 +24,9 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📕 Secondary Major: Physics, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘 Minor: Statistics.
 
+# **Research Interests:**
+♾️ Partial Differential Equations (PDEs): <be>
+&nbsp;&nbsp;&nbsp;&nbsp; * Analysis of PDEs and Systems of Hyperbolic Conservation Laws,
+&nbsp;&nbsp;&nbsp;&nbsp; * Classical Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
+&nbsp;&nbsp;&nbsp;&nbsp; * Applications of Systems of Hyperbolic Conservation Laws to Fluid Dynamics and Traffic Flow Networks,
+&nbsp;&nbsp;&nbsp;&nbsp; * Finite-time Singularities arising from PDEs.
