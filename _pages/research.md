@@ -29,3 +29,5 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Rafael S de Souza](https://www.rafaelsdesouza.com/), Alain Coc, and [Christian Iliadis](https://iliadis.web.unc.edu/). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*The Astrophysical Journal* 894, 132 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/ab88aa?fbclid=IwAR3qH-4IICuVKeaaXZv3hYx7ZWPFDk4syzfu7hV6oZpES-5fcJTH1xhfym0). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Bayesian Statistics.
+
+You can access my google scholar [here.](https://scholar.google.com/citations?user=lpeOdG4AAAAJ&hl=en)
