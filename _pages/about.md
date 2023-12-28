@@ -53,5 +53,5 @@ redirect_from:
   -  I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information.
 
 ## **Contact Me:** <be>
-📩 maxtanhk@math.ucla.edu <br>
+📩 [maxtanhk@math.ucla.edu](maxtanhk@math.ucla.edu) <br>
 🏢 MS6161
