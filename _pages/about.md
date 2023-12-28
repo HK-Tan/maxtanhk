@@ -28,7 +28,7 @@ redirect_from:
 
 ♾️ Partial Differential Equations (PDEs): 
   -  Analysis of PDEs and Systems of Hyperbolic Conservation Laws,
-  -  Applications of Systems of Hyperbolic Conservation Laws to Fluid Dynamics and Traffic Flow Networks,
+  -  Applications of Systems of Hyperbolic Conservation Laws and Hyperbolic Balance Laws to Fluid Dynamics and Traffic Flow Networks,
   -  Classical Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
   -  Finite-time Singularities arising from PDEs.
 
