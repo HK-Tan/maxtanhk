@@ -34,7 +34,7 @@ redirect_from:
 
 ## **CV:**
 
-You can access my CV **here.**
+📃 You can access my CV **here.**
 
 ## **Teaching:**
 
