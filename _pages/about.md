@@ -21,5 +21,11 @@ redirect_from:
     
 👨‍🎓 I'm a third-year applied math graduate student at UCLA.
 
-📚 I did my undergraduate at the National University of Singapore.
+📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in:
+
+   * Primary Major: Applied Mathematics
+
+   * Secondary Major: Physics
+
+   * Minor: Statistics
 
