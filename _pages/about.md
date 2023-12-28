@@ -25,8 +25,9 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘 Minor: Statistics.
 
 # **Research Interests:**
-♾️ Partial Differential Equations (PDEs): <be>
-&nbsp;&nbsp;&nbsp;&nbsp; * Analysis of PDEs and Systems of Hyperbolic Conservation Laws,
-&nbsp;&nbsp;&nbsp;&nbsp; * Classical Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
-&nbsp;&nbsp;&nbsp;&nbsp; * Applications of Systems of Hyperbolic Conservation Laws to Fluid Dynamics and Traffic Flow Networks,
-&nbsp;&nbsp;&nbsp;&nbsp; * Finite-time Singularities arising from PDEs.
+♾️ Partial Differential Equations (PDEs): <br>
+&nbsp;&nbsp;&nbsp;&nbsp; * Analysis of PDEs and Systems of Hyperbolic Conservation Laws, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; * Classical Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; * Applications of Systems of Hyperbolic Conservation Laws to Fluid Dynamics and Traffic Flow Networks, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; * Finite-time Singularities arising from PDEs. <be>
+
