@@ -10,7 +10,7 @@ redirect_from:
 
 # **About Me:**
 
-👦 
+👦 First Name: Hong Kiat, 
    * First Name: Hong Kiat, 
 
    * Last Name: Tan,
@@ -23,9 +23,9 @@ redirect_from:
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in:
 
-   * Primary Major: Applied Mathematics
+  📗 Primary Major: Applied Mathematics
 
-   * Secondary Major: Physics
-
-   * Minor: Statistics
+  📘 Secondary Major: Physics
+  
+  📙 Minor: Statistics
 
