@@ -39,7 +39,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my CV [**here.**](_files/Dec_2023_CV.pdf)
+📃 You can access my CV [**here.**](../blob/master/_pages/_files/Dec_2023_CV.pdf)
 
 ## **Teaching:**
 
