@@ -10,14 +10,15 @@ redirect_from:
 
 # **About Me:**
 
-👦 First Name: Hong Kiat, 
-   * First Name: Hong Kiat, 
+👦 Name:
 
-   * Last Name: Tan,
+&nbsp;&nbsp;🅰️ First Name: Hong Kiat, 
+
+&nbsp;&nbsp;🅱️ Last Name: Tan,
     
-   * Listed Name: Hong Kiat Tan,
+&nbsp;&nbsp;🆎 Listed Name: Hong Kiat Tan,
     
-   * "Drinks/US" Name: Max.
+&nbsp;&nbsp;🍵 "Drinks/US" Name: Max.
     
 👨‍🎓 I'm a third-year applied math graduate student at UCLA.
 
