@@ -32,6 +32,11 @@ redirect_from:
   -  Classical Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
   -  Finite-time Singularities arising from PDEs.
 
+📊 Statistics and Machine Learning:
+  -  Approximation Theory in Machine Learning,
+  -  Physics-Informed Machine Learning,
+  -  Learning Hidden Systems of Hyperbolic Conservation Laws.
+
 ## **CV:**
 
 📃 You can access my CV **here.**
