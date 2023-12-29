@@ -40,7 +40,6 @@ redirect_from:
 ## **CV:**
 
 📃 You can access my CV [**here.**](https://github.com/HK-Tan/maxtanhk/blob/main/files/Dec_2023_CV.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [here.](files/Dec_2023_CV.pdf)
 
 ## **Teaching:**
 
