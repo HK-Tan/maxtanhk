@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hong Kiat Tan"
   avatar           : "profile.jpg"
-  bio              : "Applied Math PhD Student"
+  bio              : "Applied Math PhD Student at UCLA"
   location         : "Los Angeles, CA"
-  employer         : "UCLA"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lpeOdG4AAAAJ&hl=en"
   email            : "maxtanhk@math.ucla.edu"
