@@ -9,7 +9,13 @@ author_profile: true
 
 📖 (Winter 24.) Teaching Assistant for Math 266B: Applied PDEs.
 
-## 🧑‍💻 **Teaching Experiences:**
+## 🧑‍💻 **Teaching Experiences:** 
+
+📄 To access a consolidated folder containing all my teaching evaluations, click [**here**](https://github.com/HK-Tan/maxtanhk/tree/main/files/Teaching_Evaluations). <br>
+📔 To access a consolidated folder containing all my discussion supplements, click [**here**](https://github.com/HK-Tan/maxtanhk/tree/main/files/Discussion_Supplements). <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please be aware that there may be numerous typos in these supplements, so use them with caution. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you found any typos/errors in these supplements, feel free to email me accordingly. Thanks! 
+
 
 ### Teaching Assistant at UCLA.
 
