@@ -15,8 +15,7 @@ author_profile: true
 
 📊 Statistics and Machine Learning:
   -  Approximation Theory in Machine Learning,
-  -  Physics-Informed Machine Learning,
-  -  Learning Hidden Systems of Hyperbolic Conservation Laws.
+  -  Physics-Informed Machine Learning and Learning Hidden Systems of Conservation Laws.
 
 ## **Publications:**
 
