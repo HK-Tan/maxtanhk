@@ -30,12 +30,11 @@ redirect_from:
   -  Analysis and Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
   -  Applications of Systems of Hyperbolic Conservation Laws and Hyperbolic Balance Laws to Fluid Dynamics and Traffic Flow Networks,
   -  Finite-time Singularities arising from PDEs,
-  -  Mathematical General Relativity.
+  -  Mathematical General Relativity (on the Weak Cosmic Censorship Conjecture).
 
 📊 Statistics and Machine Learning:
   -  Approximation Theory in Machine Learning,
-  -  Physics-Informed Machine Learning,
-  -  Learning Hidden Systems of Hyperbolic Conservation Laws.
+  -  Physics-Informed Machine Learning and Learning Hidden Systems of Conservation Laws.
 
 ## **CV:**
 
