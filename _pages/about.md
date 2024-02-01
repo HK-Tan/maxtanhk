@@ -49,7 +49,7 @@ redirect_from:
   -  You can access them [**here.**](teaching/)
 
 🧑‍🎓 Tutoring:
-  -  I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information.
+  -  ~~I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information.~~ I'm at my capacity this quarter. Please check back again in Spring 2024.
 
 ## **Contact Me:** <be>
 📩 maxtanhk@math.ucla.edu <br>
