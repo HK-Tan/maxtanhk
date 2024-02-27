@@ -20,7 +20,7 @@ author_profile: true
 ## **Publications:**
 
 📜 **A Proof of Weak Cosmic Censorship Conjecture for the Spherically Symmetric Einstein-Maxwell-Charged Scalar Field System** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Xinliang An]([https://blog.nus.edu.sg/matcz/](https://scholar.google.com/citations?hl=en&user=RNWt0QUAAAAJ)). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with [Xinliang An](https://scholar.google.com/citations?hl=en&user=RNWt0QUAAAAJ). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [arXiv:2402.16250 (2024).](https://arxiv.org/abs/2402.16250) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tags: Analysis of PDEs, General Relativity.
 
