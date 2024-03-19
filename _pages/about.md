@@ -24,7 +24,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📕 Secondary Major: Physics, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘 Minor: Statistics.
 
-## **Research Interests:**
+## **(Potential) Research Interests:**
 
 ♾️ Partial Differential Equations (PDEs): 
   -  Analysis and Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
@@ -43,13 +43,13 @@ redirect_from:
 ## **Teaching:**
 
 👨‍🏫 Currently Teaching: 
-  -  (Winter 24.) Teaching Assistant for Math 266B: Applied PDEs.
+  -  (Spring 24.) Teaching Assistant for Math 174E: Mathematics of Finance for Mathematics/Economics Students.
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
 
 🧑‍🎓 Tutoring:
-  -  ~~I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information.~~ I'm at my capacity this quarter. Please check back again in Spring 2024.
+  -  I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information. 
 
 ## **Contact Me:** <be>
 📩 maxtanhk@math.ucla.edu <br>
