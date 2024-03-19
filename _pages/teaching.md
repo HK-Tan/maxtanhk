@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👨‍🏫 **Current Teaching:**
 
-📖 (Winter 24.) Teaching Assistant for Math 266B: Applied PDEs.
+📖 (Spring 24.) Teaching Assistant for Math 174E: Mathematics of Finance for Mathematics/Economics Students (Dis 1A and 1B).
 
 ## 🧑‍💻 **Teaching Experiences:** 
 
@@ -18,6 +18,9 @@ author_profile: true
 
 
 ### Teaching Assistant at UCLA.
+
+📖 (Spring 24.) Teaching Assistant for Math 266 Applied Partial Differential Equations. <br>
+(To be updated.)
 
 📖 (Fall 23.) Teaching Assistant for Math 135 Ordinary Differential Equations. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.89/9.0, Helpfulness Outside of the Classroom: 9.0/9.0,  <br>
