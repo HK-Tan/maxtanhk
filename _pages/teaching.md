@@ -20,7 +20,7 @@ author_profile: true
 ### Teaching Assistant at UCLA.
 
 📖 (Winter 24.) Teaching Assistant for Math 266B Applied Partial Differential Equations. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.89/9.0, Helpfulness Outside of the Classroom: 9.0/9.0,  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.86/9.0, Helpfulness Outside of the Classroom: 9.0/9.0,  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 [Teaching Evaluation](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Teaching_Evaluations/TAN_H._-_24W_MATH_266B_DIS_1A.pdf), 📔 [Discussion Supplements](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Discussion_Supplements/Math_266B_Discussion_Supplements.pdf). <br>
 
 
