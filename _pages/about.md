@@ -15,7 +15,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🅱️ Last Name: Tan, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🆎 Listed Name: **Hong Kiat Tan**. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍵 "Drinks/US" Name: Max. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him/His. <br>
     
 👨‍🎓 I'm a third-year applied math graduate student at UCLA.
 
