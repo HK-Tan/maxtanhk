@@ -48,8 +48,6 @@ redirect_from:
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
 
-🧑‍🎓 Tutoring:
-  -  I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information. 
 
 ## **Contact Me:** <be>
 📩 maxtanhk@math.ucla.edu <br>
