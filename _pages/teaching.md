@@ -74,7 +74,3 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 5.0/5.0, Average Score over all Components: 4.8/5.0, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 [Teaching Evaluation](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Teaching_Evaluations/1010S_1819_S2.pdf). <br>
 
-
-## 🧑‍🎓 **Tutoring:** 
-
-I'm up for tutoring students for undergraduate Math (and related disciplines) classes at UCLA. Contact me via my UCLA email for more information.
