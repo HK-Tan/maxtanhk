@@ -43,7 +43,7 @@ redirect_from:
 ## **Teaching:**
 
 👨‍🏫 Currently Teaching: 
-  -  (Spring 24.) Teaching Assistant for Math 174E: Mathematics of Finance for Mathematics/Economics Students.
+  -  (Summer 24.) N.A.
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
