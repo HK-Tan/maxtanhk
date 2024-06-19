@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👨‍🏫 **Current Teaching:**
 
-📖 I'm currently not teaching any classes in the spring quarter. Check back in again before the start of the Fall 2024 quarter.
+📖 I'm currently not teaching any classes in the spring quarter. Check back again before the start of the Fall 2024 quarter.
 
 ## 🧑‍💻 **Teaching Experiences:** 
 
