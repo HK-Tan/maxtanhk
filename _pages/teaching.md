@@ -19,10 +19,13 @@ author_profile: true
 
 ### Teaching Assistant at UCLA.
 
+📖 (Spring 24.) Teaching Assistant for Math 174E Mathematics of Finance for Mathematics/Economics Students. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.06/9.0, Helpfulness Outside of the Classroom: 8.17/9.0,  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Teaching Evaluations [I](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Teaching_Evaluations/TAN_H._-_24S_MATH_174E_DIS_1A.pdf) and [II](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Teaching_Evaluations/TAN_H._-_24S_MATH_174E_DIS_1B.pdf), 📔 [Discussion Supplements](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Discussion_Supplements/Math_174E_Discussion_Supplements.pdf). <br>
+
 📖 (Winter 24.) Teaching Assistant for Math 266B Applied Partial Differential Equations. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.86/9.0, Helpfulness Outside of the Classroom: 9.0/9.0,  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 [Teaching Evaluation](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Teaching_Evaluations/TAN_H._-_24W_MATH_266B_DIS_1A.pdf), 📔 [Discussion Supplements](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Discussion_Supplements/Math_266B_Discussion_Supplements.pdf). <br>
-
 
 📖 (Fall 23.) Teaching Assistant for Math 135 Ordinary Differential Equations. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Overall Effectiveness: 8.89/9.0, Helpfulness Outside of the Classroom: 9.0/9.0,  <br>
