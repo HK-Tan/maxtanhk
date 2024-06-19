@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👨‍🏫 **Current Teaching:**
 
-📖 (Spring 24.) Teaching Assistant for Math 174E: Mathematics of Finance for Mathematics/Economics Students (Dis 1A and 1B).
+📖 I'm currently not teaching any classes in the spring quarter. Check back in again before the start of the Fall 2024 quarter.
 
 ## 🧑‍💻 **Teaching Experiences:** 
 
