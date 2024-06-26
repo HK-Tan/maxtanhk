@@ -17,7 +17,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍵 "Drinks/US" Name: Max. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him/His. <br>
     
-👨‍🎓 I'm a third-year applied math graduate student at UCLA.
+👨‍🎓 I'm a soon-to-be 4th year Ph.D. student in Applied Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/).
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗 Primary Major: Applied Mathematics, <br>
@@ -27,14 +27,11 @@ redirect_from:
 ## **(Potential) Research Interests:**
 
 ♾️ Partial Differential Equations (PDEs): 
-  -  Analysis and Numerical Methods for PDEs and Systems of Hyperbolic Conservation Laws,
-  -  Applications of Systems of Hyperbolic Conservation Laws and Hyperbolic Balance Laws to Fluid Dynamics and Traffic Flow Networks,
-  -  Finite-time Singularities arising from PDEs,
+  -  Mathematical Analysis, Numerics, and Applications for Systems of Hyperbolic Conservation Laws,
   -  Mathematical General Relativity (on the Weak Cosmic Censorship Conjecture).
 
 📊 Statistics and Machine Learning:
-  -  Approximation Theory in Machine Learning,
-  -  Physics-Informed Machine Learning and Learning Hidden Systems of Conservation Laws.
+  -  Physics-Informed Machine Learning and Applications to Hyperbolic Conservation Laws.
 
 ## **CV:**
 
