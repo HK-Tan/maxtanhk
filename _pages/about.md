@@ -40,7 +40,7 @@ redirect_from:
 ## **Teaching:**
 
 👨‍🏫 Currently Teaching: 
-  -  (Summer 24.) N.A.
+  -  (Summer/Fall 24.) N.A.
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
