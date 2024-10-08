@@ -49,6 +49,3 @@ redirect_from:
 ## **Contact Me:** <be>
 📩 maxtanhk@math.ucla.edu <br>
 🏢 MS6161
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1g57-XjXIu3vy7mIvTBkIc0QibAUsWlm29oWmkK1lbk&cl=ffffff&w=a" style="display:none"></script>
