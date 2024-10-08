@@ -17,14 +17,14 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍵 "Drinks/US" Name: Max. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍👨‍👦‍👦 Pronouns: He/Him/His. <br>
     
-👨‍🎓 I'm a soon-to-be 4th year Ph.D. student in Applied Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/).
+👨‍🎓 I'm a 4th year Ph.D. student in Applied Mathematics at UCLA, advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/).
 
 📚 I did my undergraduate studies at the National University of Singapore majoring/minoring in: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗 Primary Major: Applied Mathematics, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📕 Secondary Major: Physics, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘 Minor: Statistics.
 
-## **(Potential) Research Interests:**
+## **Research Interests:**
 
 ♾️ Partial Differential Equations (PDEs): 
   -  Mathematical Analysis, Numerics, and Applications for Systems of Hyperbolic Conservation Laws,
@@ -40,7 +40,7 @@ redirect_from:
 ## **Teaching:**
 
 👨‍🏫 Currently Teaching: 
-  -  (Summer/Fall 24.) N.A.
+  -  (Fall 24.) N.A.
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
@@ -51,4 +51,4 @@ redirect_from:
 🏢 MS6161
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1g57-XjXIu3vy7mIvTBkIc0QibAUsWlm29oWmkK1lbk&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1g57-XjXIu3vy7mIvTBkIc0QibAUsWlm29oWmkK1lbk&cl=ffffff&w=a" style="display:none;"></script>
