@@ -39,7 +39,7 @@ redirect_from:
 
 ## **Teaching:**
 
-👨‍🏫 Currently Teaching
+👨‍🏫 Currently Teaching:
   -  (Fall 24.) N.A.
 
 🧑‍💻 Teaching Experiences:
