@@ -35,7 +35,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my CV [**here.**](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Resume_Oct24.pdf)
+📃 You can access my resume/CV [**here.**](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Resume_Oct24.pdf)
 
 ## **Teaching:**
 
