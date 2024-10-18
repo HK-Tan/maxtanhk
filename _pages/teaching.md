@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## 👨‍🏫 **Current Teaching:**
+## 👨‍🏫 **Currently Teaching:**
 
 📖 I'm currently not teaching any classes in Fall 2024. Check back again before the start of the Winter 2025 quarter.
 
