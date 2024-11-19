@@ -41,6 +41,7 @@ redirect_from:
 
 👨‍🏫 Currently Teaching:
   -  (Fall 24.) N.A.
+  -  Disclaimer: I am NOT the instructor for Math 131A/131B in the Winter/Spring 25 quarters respectively. You were probably looking for [this](https://www.math.ucla.edu/people/visiting/tanhui) professor instead. 
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
