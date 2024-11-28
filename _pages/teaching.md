@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👨‍🏫 **Currently Teaching:**
 
-📖 I'm currently not teaching any classes in Fall 2024. Check back again before the start of the Winter 2025 quarter.
+📖 (Winter 25.) Teaching Assistant for Math 182 Algorithms.
 
 ## 🧑‍💻 **Teaching Experiences:** 
 
