@@ -13,10 +13,8 @@ author_profile: true
 
 📄 To access a consolidated folder containing all my teaching evaluations, click [**here**](https://github.com/HK-Tan/hk-tan.github.io/tree/main/files/Teaching_Evaluations). <br>
 📔 To access a consolidated folder containing all my discussion supplements, click [**here**](https://github.com/HK-Tan/hk-tan.github.io/tree/main/files/Discussion_Supplements). <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please be aware that there may be numerous typos in these supplements, so use them with caution. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please be aware that there may be numerous typos in these supplements, so use them with extreme caution. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you found any typos/errors in these supplements, feel free to email me accordingly. Thanks! 
-
-[Trying](https://maxtanhk.com/files/Discussion_Supplements/Math_174E_Discussion_Supplements.pdf)
 
 ### Teaching Assistant at UCLA.
 
