@@ -28,14 +28,15 @@ redirect_from:
 
 ♾️ Partial Differential Equations (PDEs): 
   -  Mathematical and Numerical Analysis for System of Hyperbolic Conservation Laws, and
-  -  Applications and Modelling of Continuum Traffic Flow Networks using Systems of Hyperbolic Conservation Laws.
+  -  Modelling Continuum Traffic Flow Networks using Systems of Hyperbolic Conservation Laws.
 
 📊 Statistics and Machine Learning.
 
 ## **CV:**
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Jan25.pdf) (Updated Jan 2025.)
-✉️ I am currently looking for an internship (and/or eventually a job) for 2025/2026. Feel free to contact me via my email below!
+
+✉️ I am currently looking for an internship (and/or eventually for a job) for 2025/2026. Feel free to contact me via my email below!
 
 ## **Teaching:**
 
