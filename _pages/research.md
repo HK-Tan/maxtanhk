@@ -8,11 +8,10 @@ author_profile: true
 ## **(Upcoming/Potential) Research Interests:**
 
 ♾️ Partial Differential Equations (PDEs): 
-  -  Mathematical Analysis, Numerics, and Applications for Systems of Hyperbolic Conservation Laws,
-  -  Mathematical General Relativity (on the Weak Cosmic Censorship Conjecture).
+  -  Mathematical and Numerical Analysis for System of Hyperbolic Conservation Laws, and
+  -  Modelling Continuum Traffic Flow Networks using Systems of Hyperbolic Conservation Laws.
 
-📊 Statistics and Machine Learning:
-  -  Physics-Informed Machine Learning and Applications to Hyperbolic Conservation Laws.
+📊 Statistics and Machine Learning.
 
 ## **Publications:**
 
