@@ -35,7 +35,7 @@ redirect_from:
 
 ## **CV:**
 
-📃 You can access my resume/CV [**here.**](https://github.com/HK-Tan/hk-tan.github.io/blob/main/files/Resume_Dec24.pdf) (Updated Dec 2024.)
+📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Dec24.pdf) (Updated Dec 2024.)
 
 ## **Teaching:**
 
