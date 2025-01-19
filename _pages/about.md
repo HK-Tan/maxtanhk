@@ -27,13 +27,15 @@ redirect_from:
 ## **Research Interests:**
 
 ♾️ Partial Differential Equations (PDEs): 
-  -  Mathematical Analysis, Numerics, and Applications for Systems of Hyperbolic Conservation Laws.
+  -  Mathematical and Numerical Analysis for System of Hyperbolic Conservation Laws, and
+  -  Applications and Modelling of Continuum Traffic Flow Networks using Systems of Hyperbolic Conservation Laws.
 
-📊 Statistics and Machine Learning
+📊 Statistics and Machine Learning.
 
 ## **CV:**
 
 📃 You can access my resume/CV [**here.**](https://maxtanhk.com/files/Resume_Dec24.pdf) (Updated Dec 2024.)
+✉️ I am currently looking for an internship (and/or eventually a job) for 2025/2026. Feel free to contact me via my email below!
 
 ## **Teaching:**
 
