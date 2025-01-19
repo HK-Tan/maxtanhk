@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## **(Upcoming/Potential) Research Interests:**
+## **Research Interests:**
 
 ♾️ Partial Differential Equations (PDEs): 
   -  Mathematical and Numerical Analysis for System of Hyperbolic Conservation Laws, and
