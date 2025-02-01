@@ -42,7 +42,7 @@ redirect_from:
 
 👨‍🏫 Currently Teaching:
   -  (Winter 25.) Math 182: Algorithms.
-  -  Disclaimer: I am NOT the instructor for Math 131A/131B in the Winter/Spring 25 quarters respectively. You were probably looking for [this](https://www.math.ucla.edu/people/visiting/tanhui) professor instead!
+  -  Disclaimer: I am NOT the instructor for Math 33A/131B in the Spring 25 quarters respectively. You were probably looking for [this](https://www.math.ucla.edu/people/visiting/tanhui) professor instead!
 
 🧑‍💻 Teaching Experiences:
   -  You can access them [**here.**](teaching/)
